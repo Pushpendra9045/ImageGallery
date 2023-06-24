@@ -1,4 +1,4 @@
-# Image Gallery with JavaScript
+# PhotoGallery with JavaScript
 
 This project is a dynamic image gallery application built using HTML, CSS, and JavaScript. It allows users to search for images and view them in a lightbox, with the option to download the images.
 
